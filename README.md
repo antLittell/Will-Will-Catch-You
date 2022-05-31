@@ -19,7 +19,7 @@ This is a VR game in which you, the player, are being chased by a hot air balloo
 ## Known Bugs
 -No executable at the moment  
 -Time will not always resume properly  
--Player can walk through walls
+-Player can walk through walls  
 -Power ups can affect player even after they die (namely the pepper)  
 
 ## Links and Video
