@@ -16,6 +16,12 @@ This is a VR game in which you, the player, are being chased by a hot air balloo
   -A philly cheesesteak sandwich that stops time for 5s  
 -Increasing difficulty as the player progresses through the game  
 
+## Known Bugs
+-No executable at the moment  
+-Time will not always resume properly  
+-Player can walk through walls
+-Power ups can affect player even after they die (namely the pepper)  
+
 ## Links and Video
 
 Google Drive Link: https://drive.google.com/drive/folders/13HgGGaWzTptTHS0gnOxAemd4di_Mb6Nz?usp=sharing  
