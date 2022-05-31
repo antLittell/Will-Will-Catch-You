@@ -2,7 +2,7 @@
 
 This is a VR game in which you, the player, are being chased by a hot air balloon with Will Smith's face on it. Progress through different environements while you dodge cars, collect powerups, and of course, run away from Will Smith! This is a collaborative project that my friends and I have been working on since March and will be continuing to develop and update, so stay tuned!  
   
-## Features (V 1.0)
+## Features (V 0.1)
 -Interactive menu with difficulty settings  
 -Four different levels (with more to come!) which include:  
   -A forest level (Easy)  
